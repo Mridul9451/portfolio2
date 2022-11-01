@@ -1,0 +1,49 @@
+body {
+    background-color: aquamarine;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a {
+    font-size: large;
+    text-decoration: none;
+    margin-right: 30px;
+    color: black;
+}
+
+.active {
+    margin-left: 50px;
+    margin-right: 750px;
+}
+
+.topnav {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+
+img {
+    margin-right: 500px;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    padding: 20px;
+    margin-left: 200px;
+}
+
+.txt {
+    margin-top: 125px;
+    margin-left: 0px;
+}
+
+.contact {
+    margin-top: 100px;
+    text-align: center;
+}
